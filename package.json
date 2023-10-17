@@ -1,7 +1,7 @@
 {
   "name": "one-dark-prime-vscode-theme",
   "displayName": "One Dark Prime",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "One Dark Prime Theme for VS Code",
   "categories": [
     "Themes"
@@ -10,7 +10,6 @@
     "Theme",
     "Dark",
     "One",
-    "Dark",
     "Prime",
     "Atom",
     "One Dark Prime"
@@ -23,7 +22,7 @@
   "author": {
     "name": "Franz Gollhammer"
   },
-  "publisher": "franzgollhammer",
+  "publisher": "fgxh",
   "scripts": {
     "package": "npm run upgrade-package-version && npm run sort-package && vsce package",
     "publish": "npm run package && vsce publish",
