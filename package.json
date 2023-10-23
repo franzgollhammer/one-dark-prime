@@ -1,7 +1,7 @@
 {
   "name": "one-dark-prime-vscode-theme",
   "displayName": "One Dark Prime",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "One Dark Prime Theme for VS Code",
   "categories": [
     "Themes"
@@ -35,6 +35,11 @@
         "label": "One Dark Prime",
         "uiTheme": "vs-dark",
         "path": "./themes/One-Dark-Prime-color-theme.json"
+      },
+      {
+        "label": "One Dark North",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One-Dark-North-color-theme.json"
       }
     ]
   },
