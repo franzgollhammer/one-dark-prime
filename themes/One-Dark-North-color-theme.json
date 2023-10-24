@@ -703,7 +703,7 @@
 		//"button.border": null,
 		//"contrastActiveBorder": null,
 		//"contrastBorder": null,
-		//"debugToolBar.border": null,
+		"debugToolBar.border": "#9da5b44d",
 		//"diffEditor.border": null,
 		//"diffEditor.insertedTextBorder": null,
 		//"diffEditor.removedTextBorder": null,
