@@ -1,7 +1,7 @@
 {
   "name": "one-dark-prime-vscode-theme",
   "displayName": "One Dark Prime",
-  "version": "0.0.39",
+  "version": "0.0.47",
   "description": "One Dark Prime Theme for VS Code",
   "categories": [
     "Themes"
@@ -32,14 +32,29 @@
   "contributes": {
     "themes": [
       {
-        "label": "One Dark Prime",
+        "label": "Monokai Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/One-Dark-Prime-color-theme.json"
+        "path": "./themes/Monokai-dark-color-theme.json"
+      },
+      {
+        "label": "Monokai 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai-2-color-theme.json"
       },
       {
         "label": "One Dark North",
         "uiTheme": "vs-dark",
         "path": "./themes/One-Dark-North-color-theme.json"
+      },
+      {
+        "label": "One Dark North Borders",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One-Dark-North-Borders-color-theme.json"
+      },
+      {
+        "label": "One Dark Prime",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One-Dark-Prime-color-theme.json"
       }
     ]
   },
